@@ -33,8 +33,8 @@ To set up the project, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/whitelist-token.git
-   cd whitelist-token
+   git clone https://github.com/MudDev/Solana-Whitelist.git
+   cd Solana-Whitelist
 
 2. **Install dependencies**:
 Ensure you have Rust and Solana CLI installed. Follow the official installation guides for Rust and Solana CLI.
